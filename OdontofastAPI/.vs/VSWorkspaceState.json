@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Repository",
+    "\\Repository\\Implementations",
+    "\\Repository\\Interfaces",
+    "\\Service",
+    "\\Service\\Implementations",
+    "\\Service\\Interfaces"
+  ],
+  "SelectedNode": "\\Service\\Interfaces\\IEmailService.cs",
+  "PreviewInSolutionExplorer": false
+}
