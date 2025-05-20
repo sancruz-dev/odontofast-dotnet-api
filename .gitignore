@@ -1,10 +1,13 @@
 # Ignorar bin e obj de cada projeto
 OdontofastAPI/bin/
 OdontofastAPI/obj/
+OdontofastAPI/.vs/
 OdontofastAPI.Tests/bin/
 OdontofastAPI.Tests/obj/
+OdontofastAPI.Tests/.vs/
 
 # VSCode e arquivos de IDEs
+.vs/
 .vscode/
 .idea/
 *.suo
